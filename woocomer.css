@@ -1,0 +1,2759 @@
+body {
+    overflow-x: hidden;
+}
+
+
+
+.header_bg{
+    background: url(woocommer_img/bg_gradient.png);
+    background-repeat: no-repeat;
+	background-size: 100% auto;
+    position: relative;
+    height: 1920px;
+    width: 100%;
+}
+.woocommer_logo{
+    height: 24px;
+    width: 139px;
+    margin-left: -130%;
+}
+.li_header{
+    margin-left: -80%;
+}
+.li_a{
+    color: #272D4E;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
+#zoom_icon{
+    color: black;
+}
+#navbarResponsive1{
+    margin-right: -20%;
+}
+#btn_header_nav{
+    background-color: #7854F7;
+}
+.li_a_login{
+    margin-top: 10%;
+    color: #272D4E;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
+#zomm{
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 13px;
+    width: 13px;
+}
+
+#navbar_header{
+    z-index: 1;
+}
+.img_vector_header_bg{
+    z-index: 0;
+    width: 870px;
+    position: absolute;
+    left: 46.5%;
+    right: -41.88%;
+    top: -9.38%;
+    bottom: 81.42%;
+}
+
+.img_featured_header_bg{
+
+    position: absolute;
+    width: 608px;
+    height: 549.14px;
+    left: 805px;
+    top: 159px;
+}
+
+.p_header_h1{
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    line-height: 75px;
+    color: #272D4E;
+    margin-top: 13%;
+    margin-left: -2.5%;
+}
+
+.p_header_h2{
+    margin-left: -2.5%;
+    font-size: 13px;
+    color: #94A2B3;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+#btn_p_header{
+    background-color: #7854F7;
+    padding: 1.3% 3%;
+    margin-left: -2%;
+    border-radius: 30px;
+    border-color: #7854F7;
+    font-size: 12px;
+}
+
+.span_btn{
+    color:#94A2B3 ;
+    margin-top: 1.5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+}
+.span_btn2{
+    color: #299EF3;
+    margin-top: 1.5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+}
+/*****************************Your eCommerce <br> made simple*********************/
+.header_and_eCommerce{
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 70px;
+    margin-top: 15%;
+    color: #272D4E;
+}
+.eCommerce_img{
+    width: 400px;
+    height: 300px;
+}
+.eCommerce_div1{
+    position: relative;
+}
+.eCommerce_card1_p1{
+    color: #272D4E;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    top: 250px;
+    left: 85px;
+    margin-top: 2%;
+    
+}
+.eCommerce_card1_p2{
+    position: absolute;
+    top: 285px;
+    left: 85px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+    color: #94A2B3;
+    margin-top: 2%;
+}
+
+.eCommerce_card1_span{
+    position: absolute;
+    top: 330px;
+    left: 85px;
+    color: #299EF3;
+    margin-top: 2%;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/*******************************************bg purple section***************************************************/
+.bg_purple_section{
+    background: url(woocommer_img/bgpurle.png);
+    background-repeat: no-repeat;
+	background-size: 100% auto;
+    height: 1100px;
+    width: 100%;
+    margin-top: -35%;
+}
+
+.purleimg1{
+    width: 388px;
+    height: 476px;
+    margin-left: 5%;
+}
+.li_purple_div1{
+    display: inline-block;
+}
+.purple_div1{
+    position: relative;
+}
+.purleimg1_text1{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-Style: normal;
+    font-Size: 32px;
+    Line-height: 40px;
+}
+.purleimg1_text2{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+#purleimg1_btn{
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 1.2% 2.2%;
+    background-color: #6CBB16;
+    border-color: #6CBB16;
+    border-radius: 60px;
+}
+.purleimg1_text11{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-Style: normal;
+    font-Size: 32px;
+    Line-height: 40px;
+}
+.purleimg1_text22{
+    position: absolute;
+    top: 105px;
+    left: 300px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+#purleimg1_btn1{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 1.2% 2.2%;
+    background-color: #6CBB16;
+    border-color: #6CBB16;
+    border-radius: 60px;
+}
+.purleimg2{
+    display: none;
+}     
+
+/*************************************Trusted by Agencies****************************************************/
+.Trusted_by_Agencies_bg{
+    background: url(woocommer_img/trusesbyagenciesbg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    position: relative;
+    height: 2120px;
+    width: 100%;
+    margin-top: -10%;
+    position: relative;
+}
+.Trusted_by_Agencies_h1{
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 60px;
+    color: #272D4E;
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+
+.Trusted_by_carusel_imgimg{
+    width: 530px;
+    height: 361px;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    margin-left: 25%;
+    margin-top: 24%;
+}
+/*******************************************Support by real people**************************************/
+.supportimgbg{
+    background: url(woocommer_img/supportimgbg.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    margin-top: 15%;
+    position: relative;
+    height: 500px;
+    width: 100%;
+}
+.supportimgbg_img{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    width: 1200px;
+}
+.supportimgp1{
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 70px;
+    color: #272D4E;   
+}
+.supportimgp2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 25px;
+    color: #94A2B3;
+}
+.supportimg_bg_purple{
+    height: 241px;
+    width: 100%;
+    background-color: #5C35E7;
+    margin-top: 18%;
+}
+.support_purple_p{
+    margin-top: 8%;
+    margin-left: 5%;
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 33px;
+    line-height: 52px;
+    color: #FFFFFF;   
+}
+.support_purple_span{
+    font-family: Roboto;
+    font-weight: 100;
+    font-size: 33px;
+    line-height: 52px;
+    color: #FFFFFF; 
+}
+#support_purple_btn{
+    margin-top: 50%;
+    margin-left: -15%;
+    border-radius: 60px;
+    padding: 10% 20%;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: #5C35E7;
+    border-color: #FFFFFF;
+}
+/************************************************************/
+.foother_purple{
+    background-color: #7753F4;
+    margin-top: 9%;
+    height: 750px;
+    width: 100%;
+}
+.foother_row1_img{
+    margin-left: -5%;
+    margin-top: 20%;
+}
+.foother_row1_p{
+    margin-top: 18%;
+    font-size: 16px;
+    float: right;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+.foother_row1_span{
+    font-size: 16px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 52px;
+    color: #FFFFFF;
+}
+.logo_foother{
+    margin-top: 10%;
+}
+.foother_hr{
+    background-color: #BCAFFF;
+    margin-top: 5%;
+}
+
+/*****************************************FOOTHER UL LI*********************/
+.foother_li1{
+    list-style-type: none;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 60px;
+}
+.foother_li{
+    list-style-type: none;
+    font-family: Roboto;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 27px;
+}
+.foother_li a{
+    color: #FFFFFF;
+}
+@media (max-width: 1920px){
+    .woocommer_logo{
+        height: 34px;
+        width: 149px;
+        margin-left: -170%;
+    }
+    .li_header{
+        margin-left: -80%;
+    }
+    .li_a{
+        color: #272D4E;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+    }
+    #navbarResponsive1{
+        margin-right: -20%;
+    }
+    .li_a_login{
+        margin-top: 10%;
+        color: #272D4E;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+    }
+
+    .img_vector_header_bg{
+        z-index: 0;
+        width: 870px;
+        position: absolute;
+        left: 46.5%;
+        right: -41.88%;
+        top: -9.38%;
+        bottom: 81.42%;
+    }
+    
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 708px;
+        height: 699.14px;
+        left: 1050px;
+        top: 159px;
+    }
+    
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 80px;
+        line-height: 85px;
+        color: #272D4E;
+        margin-top: 13%;
+        margin-left: -15%;
+    }
+    
+    .p_header_h2{
+        margin-left: -15%;
+        font-size: 15px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    
+    #btn_p_header{
+        background-color: #7854F7;
+        padding: 1.3% 3%;
+        margin-left: -14.5%;
+        border-radius: 30px;
+        border-color: #7854F7;
+        font-size: 15px;
+    }
+    
+    /*****************************Your eCommerce <br> made simple*********************/
+    .header_and_eCommerce{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 70px;
+        margin-top: 25%;
+        color: #272D4E;
+    }
+    /*******************************************bg purple section***************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/bgpurle.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 100%;
+        margin-top: -20%;
+    }
+
+    .purleimg1_text11{
+        position: absolute;
+        top: 200px;
+        left: 300px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 305px;
+        left: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 450px;
+        left: 300px;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 1.2% 2.2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    /*******************************************Trusted_by_Agencies_bg***************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 100%;
+        margin-top: 5%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 60px;
+        color: #272D4E;
+        position: absolute;
+        top: 5%;
+        left: 40%;
+    }
+    
+    .Trusted_by_carusel_imgimg{
+        width: 650px;
+        height: 481px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 21%;
+        margin-top: 33%;
+    }
+    /*******************************************Support by real people**************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 38%;
+        left: 18%;
+        width: 1300px;
+    }
+    .supportimgp1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 70px;
+        color: #272D4E;   
+    }
+    .foother_row1_img{
+        margin-left: 10%;
+        margin-top: 20%;
+    }
+
+
+}
+@media (max-width: 1829px){
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 688px;
+        height: 629.14px;
+        left: 1000px;
+        top: 159px;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 38%;
+        left: 18%;
+        width: 1210px;
+    }
+}
+@media (max-width: 1700px){
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 698px;
+        height: 639.14px;
+        left: 870px;
+        top: 159px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: 100px;
+        left: 300px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 205px;
+        left: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 350px;
+        left: 300px;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 1.2% 2.2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 38%;
+        left: 18%;
+        width: 1050px;
+    }
+}
+@media (max-width: 1600px){
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 678px;
+        height: 619.14px;
+        left: 850px;
+        top: 159px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: 100px;
+        left: 300px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 205px;
+        left: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 350px;
+        left: 300px;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 1.2% 2.2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 38%;
+        left: 18%;
+        width: 1050px;
+    }
+}
+@media (max-width: 1529px){
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 668px;
+        height: 609.14px;
+        left: 800px;
+        top: 159px;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 38%;
+        left: 18%;
+        width: 1000px;
+    }
+}
+@media (max-width: 1440px){
+    .header_bg{
+        background: url(woocommer_img/bg_gradient.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 1920px;
+        width: 100%;
+    }
+    .woocommer_logo{
+        height: 24px;
+        width: 139px;
+        margin-left: -130%;
+    }
+    .li_header{
+        margin-left: -80%;
+    }
+    .li_a{
+        color: #272D4E;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+    }
+    #zoom_icon{
+        color: black;
+    }
+    #navbarResponsive1{
+        margin-right: -20%;
+    }
+    #btn_header_nav{
+        background-color: #7854F7;
+    }
+    .li_a_login{
+        margin-top: 10%;
+        color: #272D4E;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+    }
+    #zomm{
+        margin-top: 20px;
+        margin-left: 15px;
+        height: 13px;
+        width: 13px;
+    }
+    
+    #navbar_header{
+        z-index: 1;
+    }
+    .img_vector_header_bg{
+        z-index: 0;
+        width: 870px;
+        position: absolute;
+        left: 46.5%;
+        right: -41.88%;
+        top: -9.38%;
+        bottom: 81.42%;
+    }
+    
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 608px;
+        height: 549.14px;
+        left: 805px;
+        top: 159px;
+    }
+    
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 70px;
+        line-height: 75px;
+        color: #272D4E;
+        margin-top: 13%;
+        margin-left: -2.5%;
+    }
+    
+    .p_header_h2{
+        margin-left: -2.5%;
+        font-size: 13px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    
+    #btn_p_header{
+        background-color: #7854F7;
+        padding: 1.3% 3%;
+        margin-left: -2%;
+        border-radius: 30px;
+        border-color: #7854F7;
+        font-size: 12px;
+    }
+    
+    .span_btn{
+        color:#94A2B3 ;
+        margin-top: 1.5%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .span_btn2{
+        color: #299EF3;
+        margin-top: 1.5%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    /*****************************Your eCommerce <br> made simple*********************/
+    .header_and_eCommerce{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 70px;
+        margin-top: 15%;
+        color: #272D4E;
+    }
+    .eCommerce_img{
+        width: 400px;
+        height: 300px;
+    }
+    .eCommerce_div1{
+        position: relative;
+    }
+    .eCommerce_card1_p1{
+        color: #272D4E;
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        position: absolute;
+        top: 250px;
+        left: 85px;
+        margin-top: 2%;
+        
+    }
+    .eCommerce_card1_p2{
+        position: absolute;
+        top: 285px;
+        left: 85px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 20px;
+        color: #94A2B3;
+        margin-top: 2%;
+    }
+    
+    .eCommerce_card1_span{
+        position: absolute;
+        top: 330px;
+        left: 85px;
+        color: #299EF3;
+        margin-top: 2%;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    
+    /*******************************************bg purple section***************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/bgpurle.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 100%;
+        margin-top: -35%;
+    }
+    
+    .purleimg1{
+        width: 388px;
+        height: 476px;
+        margin-left: 5%;
+    }
+    .li_purple_div1{
+        display: inline-block;
+    }
+    .purple_div1{
+        position: relative;
+    }
+    .purleimg1_text1{
+        position: absolute;
+        top: 100px;
+        left: 500px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 200px;
+        left: 500px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 350px;
+        left: 500px;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 1.2% 2.2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: 0;
+        left: 300px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 105px;
+        left: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 250px;
+        left: 300px;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 1.2% 2.2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg2{
+        display: none;
+    }     
+    
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 100%;
+        margin-top: -10%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 60px;
+        color: #272D4E;
+        position: absolute;
+        top: 5%;
+        left: 40%;
+    }
+    
+    .Trusted_by_carusel_imgimg{
+        width: 530px;
+        height: 361px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 25%;
+        margin-top: 24%;
+    }
+    /*******************************************Support by real people**************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 25%;
+        left: 10%;
+        width: 1200px;
+    }
+    .supportimgp1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 45px;
+        line-height: 70px;
+        color: #272D4E;   
+    }
+    .supportimgp2{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 25px;
+        color: #94A2B3;
+    }
+    .supportimg_bg_purple{
+        height: 241px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: 5%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 33px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 33px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 50%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 10% 20%;
+        font-size: 15px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /************************************************************/
+    .foother_purple{
+        background-color: #7753F4;
+        margin-top: 9%;
+        height: 750px;
+        width: 100%;
+    }
+    .foother_row1_img{
+        margin-left: -5%;
+        margin-top: 20%;
+    }
+    .foother_row1_p{
+        margin-top: 18%;
+        font-size: 16px;
+        float: right;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 16px;
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .logo_foother{
+        margin-top: 10%;
+    }
+    .foother_hr{
+        background-color: #BCAFFF;
+        margin-top: 5%;
+    }
+    
+    /*****************************************FOOTHER UL LI*********************/
+    .foother_li1{
+        list-style-type: none;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 60px;
+    }
+    .foother_li{
+        list-style-type: none;
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .foother_li a{
+        color: #FFFFFF;
+    }
+}
+@media (max-width: 1300px){
+    .header_bg{
+        background: url(woocommer_img/bg_gradient.png);
+        background-repeat: no-repeat;
+        position: relative;
+        height: 2120px;
+        width: 1200px;
+    }
+    .woocommer_logo{
+        height: 24px;
+        width: 139px;
+        margin-left: -70%;
+    }
+    .li_header{/*menui gracn sell ........*/
+        margin-left: -60%;
+    }
+    #navbarResponsive1{
+        margin-right: -10%;
+    }
+    .img_vector_header_bg{
+        z-index: 0;
+        width: 670px;
+        height: 1000px;
+        position: absolute;
+        left: 46.5%;
+        right: -35.88%;
+        top: -9.38%;
+        bottom: 81.42%;
+    }
+    
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 488px;
+        height: 429.14px;
+        left: 600px;
+        top: 159px;
+    }
+    
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 65px;
+        color: #272D4E;
+        margin-top: 14%;
+        margin-left: 2%;
+    }
+    /*********************************/
+    .header_and_eCommerce{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 70px;
+        margin-top: 20%;
+        z-index: 8;
+        color: #272D4E;
+
+    }
+    .eCommerce_img{
+        width: 350px;
+        height: 250px;
+    }
+    .eCommerce_div1{
+        position: relative;
+    }
+    .eCommerce_card1_p1{
+        color: #272D4E;
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 25px;
+        position: absolute;
+        top: 250px;
+        left: 85px;
+        margin-top: -6%;
+        
+    }
+    .eCommerce_card1_p2{
+        position: absolute;
+        top: 285px;
+        left: 85px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9px;
+        line-height: 20px;
+        color: #94A2B3;
+        margin-top: -6%;
+    }
+    
+    .eCommerce_card1_span{
+        position: absolute;
+        top: 330px;
+        left: 85px;
+        color: #299EF3;
+        margin-top: -6%;
+        font-weight: bold;
+        font-size: 9px;
+    }
+    /*******************************************bg purple section***************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/bgpurle.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 100%;
+        margin-top: -55%;
+    }
+
+    .purleimg1{
+        width: 338px;
+        height: 426px;
+        margin-left: 10%;
+    }
+    .purleimg1_text1{
+        position: absolute;
+        top: 80px;
+        left: 450px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 180px;
+        left: 450px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 330px;
+        left: 450px;
+        font-weight: 600;
+        font-size: 13px;
+        padding: 1.1% 2.1%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: 0;
+        left: 300px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 32px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 95px;
+        left: 300px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 240px;
+        left: 300px;
+        font-weight: 600;
+        font-size: 13px;
+        padding: 1.1% 2.1%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 100%;
+        margin-top: -17%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 60px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 40%;
+    }
+
+    .Trusted_by_carusel_imgimg{
+        width: 500px;
+        height: 331px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 30%;
+        margin-top: 22%;
+    }
+    /*************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 35%;
+        left: 15%;
+        width: 850px;
+    }
+    .supportimg_bg_purple{
+        height: 221px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: 5%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 31px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 31px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 50%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 10% 20%;
+        font-size: 15px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /************************************************************/
+    .foother_purple{
+        background-color: #7753F4;
+        margin-top: 5%;
+        height: 750px;
+        width: 100%;
+    }
+    .foother_row1_img{
+        margin-left: 25%;
+        margin-top: 20%;
+    }
+    .foother_row1_p{
+        margin-top: 18%;
+        float: right;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 16px;
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }   
+}
+
+@media (max-width: 1200px){
+	.header_bg{
+        background: url(woocommer_img/bg_gradient.png);
+        background-repeat: no-repeat;
+        position: relative;
+        height: 2120px;
+        width: 1100px;
+    }
+    .woocommer_logo{
+        height: 24px;
+        width: 139px;
+        margin-left: -100%;
+    }
+    .li_header{/*menui gracn sell ........*/
+        margin-left: -35%;
+    }
+    .li_a{
+        color: #272D4E;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+    }
+    #zoom_icon{
+        color: black;
+    }
+    #navbarResponsive1{
+        margin-right: -13%;
+    }
+    #btn_header_nav{
+        background-color: #7854F7;
+    }
+    .li_a_login{
+        margin-top: 10%;
+        color: #272D4E;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 500;
+    }
+    
+    #navbar_header{
+        z-index: 1;
+    }
+    .img_vector_header_bg{
+        z-index: 0;
+        width: 670px;
+        height: 1000px;
+        position: absolute;
+        left: 46.5%;
+        right: -35.88%;
+        top: -9.38%;
+        bottom: 81.42%;
+    }
+    
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 438px;
+        height: 399.14px;
+        left: 650px;
+        top: 159px;
+    }
+    
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 65px;
+        color: #272D4E;
+        margin-top: 14%;
+        margin-left: 2%;
+    }
+    
+    .p_header_h2{
+        margin-left: 2%;
+        font-size: 10px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    /**********************your_eCommerce_made_simple********/
+    .header_and_eCommerce{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 70px;
+        margin-top: 15%;
+        z-index: 8;
+        color: #272D4E;
+    }
+
+    .eCommerce_img{
+        width: 330px;
+        height: 230px;
+    }
+    /*******************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/bgpurle.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 100%;
+        margin-top: -70%;
+    }
+    .purleimg1{
+        width: 318px;
+        height: 406px;
+        margin-left: 10%;
+    }
+    .purleimg1_text1{
+        position: absolute;
+        top: 60px;
+        left: 450px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 26px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 150px;
+        left: 450px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 280px;
+        left: 450px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: -30px;
+        left: 250px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 26px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 65px;
+        left: 250px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 200px;
+        left: 250px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 100%;
+        margin-top: -17%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 34px;
+        line-height: 50px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 40%;
+    }
+    
+    .Trusted_by_carusel_imgimg{
+        width: 490px;
+        height: 311px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 25%;
+        margin-top: 24.5%;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 100%;
+        margin-top: -17%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 36px;
+        line-height: 60px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 40%;
+    }
+
+    .Trusted_by_carusel_imgimg{
+        width: 500px;
+        height: 331px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 30%;
+        margin-top: 22%;
+    }
+    /*************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 32%;
+        left: 15%;
+        width: 850px;
+    }
+    .supportimg_bg_purple{
+        height: 221px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: 5%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 28px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 60%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 8% 16%;
+        font-size: 13px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /************************************************************/
+    .foother_purple{
+        background-color: #7753F4;
+        margin-top: 3%;
+        height: 750px;
+        width: 100%;
+    }
+    .foother_row1_img{
+        margin-left: 15%;
+        margin-top: 20%;
+        width: 30px;
+        height: 30px;
+    }
+    .foother_row1_p{
+        margin-top: 18%;
+        float: right;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 15px;
+        font-family: Roboto;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .logo_foother{
+        margin-top: 7%;
+        width: 134px;
+        height: 30px;
+    }    
+}
+/***/
+@media (max-width: 1000px){
+    .woocommer_logo{
+        height: 24px;
+        width: 139px;
+        margin-left: -165%;
+    }
+    .li_header{/*menui gracn sell ........*/
+        margin-left: -55%;
+    }
+    .your_eCommerce_made_simple{
+        margin-top: -1000px;
+    }
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 55px;
+        line-height: 65px;
+        color: #272D4E;
+        margin-top: 14%;
+        margin-left: -15%;
+    }
+    .p_header_h2{
+        margin-left: -15%;
+        font-size: 10px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    #btn_p_header{
+        background-color: #7854F7;
+        padding: 1.3% 3%;
+        margin-left: -15%;
+        border-radius: 30px;
+        border-color: #7854F7;
+        font-size: 12px;
+    }
+    #navbarResponsive1{
+        margin-right: -150px;
+    }
+    #btn_header_nav{
+        background-color: #7854F7;
+    }
+    /*----------------------------------------*/
+    /*********************************/
+    .header_and_eCommerce{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 43px;
+        line-height: 70px;
+        margin-top: 15%;
+        z-index: 8;
+        margin-left: 10%;
+        color: #272D4E;
+
+    }
+    .eCommerce_img{
+        width: 600px;
+        height: 500px;
+    }
+    .eCommerce_div1{
+        position: relative;
+    }
+    .eCommerce_card1_p1{
+        color: #272D4E;
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        position: absolute;
+        top: 550px;
+        left: 100px;
+        margin-top: -16%;
+        
+    }
+    .eCommerce_card1_p2{
+        position: absolute;
+        top: 610px;
+        left: 100px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 20px;
+        color: #94A2B3;
+        margin-top: -16%;
+    }
+    
+    .eCommerce_card1_span{
+        position: absolute;
+        top: 660px;
+        left: 100px;
+        color: #299EF3;
+        margin-top: -16%;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    .eCommerce_div1{
+        margin-top: 15%;
+    }
+    /*******************************************bg purple section***************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/Group5.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 1100px;
+        margin-top: 70%;
+    }
+
+    .purleimg1_text1{
+        position: absolute;
+        top: 60px;
+        left: 250px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 160px;
+        left: 250px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 310px;
+        left: 250px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: -20px;
+        left: 200px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 75px;
+        left: 200px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 220px;
+        left: 200px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg2{
+        display: block;
+        width: 278px;
+        height: 366px;
+        margin-left: 67%;
+        margin-top: -6%;
+    } 
+    .purleimg1{
+        width: 278px;
+        height: 366px;
+        margin-left: -35%;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 1100px;
+        margin-top: -35%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 50px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 40%;
+    }
+
+    .Trusted_by_carusel_imgimg{
+        width: 460px;
+        height: 281px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 18%;
+        margin-top: 31%;
+    }
+        /*************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 32%;
+        left: 15%;
+        width: 850px;
+    }
+    .supportimg_bg_purple{
+        height: 221px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: 5%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 28px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 28px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 60%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 8% 16%;
+        font-size: 13px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /*************************************/
+    .supportimgbg{
+        background: url(woocommer_img/supportimgbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-top: 15%;
+        position: relative;
+        height: 500px;
+        width: 100%;
+    }
+    .supportimgbg_img{
+        position: absolute;
+        top: 31%;
+        left: 15%;
+        width: 800px;
+    }
+    .supportimg_bg_purple{
+        height: 201px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: -10%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 25px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 25px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 80%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 8% 16%;
+        font-size: 11.5px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    .supportimgp1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 70px;
+        color: #272D4E;   
+    }
+    .supportimgp2{
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 25px;
+        color: #94A2B3;
+    }
+    /************************************************************/
+    .foother_purple{
+        background-color: #7753F4;
+        margin-top: 3%;
+        height: 750px;
+        width: 100%;
+    }
+    .foother_row1_img{
+        margin-left: 0%;
+        margin-top: 20%;
+        width: 30px;
+        height: 30px;
+    }
+    .foother_row1_p{
+        margin-top: 16%;
+        float: right;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 13px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .logo_foother{
+        margin-top: 7%;
+        width: 134px;
+        height: 30px;
+    }
+    /*****************************************FOOTHER UL LI*********************/
+    .foother_li1{
+        list-style-type: none;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-size: 11px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 40px;
+    }
+    .foother_li{
+
+        list-style-type: none;
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 9px;
+        line-height: 27px;
+    }
+    .foother_li a{
+        color: #FFFFFF;
+    }   
+    #div2_foother{
+        margin-left: 0%;
+    }
+    #div4_foother{
+        margin-left: -5%;
+    }
+    #div5_foother{
+        margin-left: -0%;
+    }
+}
+
+@media (max-width: 770px){
+    .woocommer_logo{
+        height: 30px;
+        width: 145px;
+        margin-left: -185%;
+        margin-top: 5%;
+    }
+    .li_header{/*menui gracn sell ........*/
+        margin-left: -55%;
+    }
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 458px;
+        height: 429.14px;
+        left: 630px;
+        top: 139px;
+    }
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 50px;
+        line-height: 65px;
+        color: #272D4E;
+        margin-top: 24%;
+        margin-left: -35%;
+    }
+    .p_header_h2{
+        margin-left: -35%;
+        font-size: 10px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    #btn_p_header{
+        background-color: #7854F7;
+        padding: 1.5% 5%;
+        margin-left: -35%;
+        border-radius: 30px;
+        border-color: #7854F7;
+        font-size: 12.5px;
+    }
+    #navbarResponsive1{
+        margin-right: -150px;
+    }
+    #btn_header_nav{
+        background-color: #7854F7;
+    }
+    #btn_3polos{
+        margin-right: -40%;
+        font-size: 28px;
+    }
+    /*/*******************************************************************/
+    .purleimg1_text1{
+        position: absolute;
+        top: 60px;
+        left: 200px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 160px;
+        left: 200px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 310px;
+        left: 200px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: -20px;
+        left: 70px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 75px;
+        left: 70px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 220px;
+        left: 70px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg2{
+        display: block;
+        width: 278px;
+        height: 366px;
+        margin-left: 67%;
+        margin-top: -6%;
+    } 
+    .purleimg1{
+        width: 278px;
+        height: 366px;
+        margin-left: -65%;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 1100px;
+        margin-top: -35%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 50px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 37%;
+    }
+
+    .Trusted_by_carusel_imgimg{
+        width: 470px;
+        height: 291px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 5%;
+        margin-top: 41.5%;
+    }v
+
+    /*************************************/
+
+    .supportimg_bg_purple{
+        height: 201px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 8%;
+        margin-left: -30%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 22px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: 80%;
+        margin-left: -15%;
+        border-radius: 60px;
+        padding: 12% 24%;
+        font-size: 12px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /************************************************************/
+
+    .foother_row1_p{
+        margin-top: 16%;
+        float: right;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 13px;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 13px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 30px;
+        color: #FFFFFF;
+    }
+    .logo_foother{
+        margin-top: 7%;
+        width: 134px;
+        height: 30px;
+    }
+    /*****************************************FOOTHER UL LI*********************/
+    .foother_li1{
+        list-style-type: none;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 25px;
+    }
+    .foother_li{
+
+        list-style-type: none;
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 10px;
+        line-height: 27px;
+    }
+    .foother_li a{
+        color: #FFFFFF;
+    }
+    #div1_foother{
+        margin-top: -0;
+    }   
+    #div2_foother{
+        margin-left: -0;
+    }
+    #div4_foother{
+        margin-left: -0%;
+    }
+    #div5_foother{
+        margin-left: -0%;
+    } 
+}
+
+@media (max-width: 575px){
+    .header_bg{
+        background: url(woocommer_img/bg_gradient.png);
+        background-repeat: no-repeat;
+        position: relative;
+        height: 2120px;
+        width: 1100px;
+    }
+    .woocommer_logo{
+        height: 40px;
+        width: 155px;
+        margin-left: -20%;
+        margin-top: 5%;
+    }
+    .li_header{/*menui gracn sell ........*/
+        margin-left: -55%;
+    }
+    .img_featured_header_bg{
+    
+        position: absolute;
+        width: 458px;
+        height: 429.14px;
+        left: 600px;
+        top: 139px;
+    }
+    .p_header_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 60px;
+        line-height: 65px;
+        color: #272D4E;
+        margin-top: 14%;
+        margin-left: 5%;
+    }
+    .p_header_h2{
+        margin-left: 5%;
+        font-size: 11px;
+        color: #94A2B3;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+    #btn_p_header{
+        background-color: #7854F7;
+        padding: 1.4% 4%;
+        margin-left: 5%;
+        border-radius: 30px;
+        border-color: #7854F7;
+        font-size: 18px;
+    }
+    #navbarResponsive1{
+        margin-right: -150px;
+    }
+    #btn_header_nav{
+        background-color: #7854F7;
+    }
+    #btn_3polos{
+        margin-right: -1%;
+        font-size: 28px;
+    }
+    /******************************************/
+    .eCommerce_img{
+        margin-left: 25%;
+        width: 600px;
+        height: 500px;
+    }
+    .eCommerce_div1{
+        position: relative;
+    }
+    .eCommerce_card1_p1{
+        color: #272D4E;
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 35px;
+        position: absolute;
+        top: 550px;
+        left: 100px;
+        margin-top: -10%;
+        margin-left: 25%;
+        
+    }
+    .eCommerce_card1_p2{
+        position: absolute;
+        top: 610px;
+        left: 100px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 20px;
+        color: #94A2B3;
+        margin-top: -10%;
+        margin-left: 25%;
+    }
+    
+    .eCommerce_card1_span{
+        position: absolute;
+        top: 660px;
+        left: 100px;
+        color: #299EF3;
+        margin-top: -10%;
+        margin-left: 25%;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    /********************************************************/
+    .bg_purple_section{
+        background: url(woocommer_img/Group5.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 1100px;
+        margin-top: 160%;
+    }
+    .purleimg1_text1{
+        position: absolute;
+        top: 60px;
+        left: 450px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text2{
+        position: absolute;
+        top: 160px;
+        left: 450px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn{
+        position: absolute;
+        top: 310px;
+        left: 450px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg1_text11{
+        position: absolute;
+        top: -20px;
+        left: 270px;
+        color: #FFFFFF;
+        font-weight: 700;
+        font-Style: normal;
+        font-Size: 24px;
+        Line-height: 40px;
+    }
+    .purleimg1_text22{
+        position: absolute;
+        top: 75px;
+        left: 270px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 25px;
+        color: #FFFFFF;
+    }
+    #purleimg1_btn1{
+        position: absolute;
+        top: 220px;
+        left: 270px;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 1% 2%;
+        background-color: #6CBB16;
+        border-color: #6CBB16;
+        border-radius: 60px;
+    }
+    .purleimg2{
+        display: block;
+        width: 278px;
+        height: 366px;
+        margin-left: 63%;
+        margin-top: -6%;
+    } 
+    .purleimg1{
+        width: 278px;
+        height: 366px;
+        margin-left: 30%;
+    }
+    /*************************************Trusted by Agencies****************************************************/
+    .Trusted_by_Agencies_bg{
+        background: url(woocommer_img/trusesbyagenciesbg.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        position: relative;
+        height: 2120px;
+        width: 1100px;
+        margin-top: -45%;
+        position: relative;
+    }
+    .Trusted_by_Agencies_h1{
+        font-family: Circular Std;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 50px;
+        color: #272D4E;
+        position: absolute;
+        top: 3%;
+        left: 37%;
+    }
+
+    .Trusted_by_carusel_imgimg{
+        width: 470px;
+        height: 291px;
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        margin-left: 27%;
+        margin-top: 19.5%;
+    }
+    /*************************************/
+
+    .supportimg_bg_purple{
+        height: 201px;
+        width: 100%;
+        background-color: #5C35E7;
+        margin-top: 18%;
+    }
+    .support_purple_p{
+        margin-top: 5%;
+        margin-left: 20%;
+        font-family: Roboto;
+        font-weight: 900;
+        font-size: 23px;
+        line-height: 52px;
+        color: #FFFFFF;   
+    }
+    .support_purple_span{
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 23px;
+        line-height: 52px;
+        color: #FFFFFF; 
+    }
+    #support_purple_btn{
+        margin-top: -16%;
+        margin-left: 70%;
+        border-radius: 60px;
+        padding: 2% 4%;
+        font-size: 12px;
+        font-weight: 500;
+        background-color: #5C35E7;
+        border-color: #FFFFFF;
+    }
+    /************************************************************/
+    .foother_purple{
+        background-color: #7753F4;
+        margin-top: 3%;
+        height: 850px;
+        width: 100%;
+    }
+    .foother_row1_img{
+        float: left;
+        margin-left: 30%;
+        margin-top: 4%;
+        width: 30px;
+        height: 30px;
+    }
+    .foother_row1_p{
+        margin-left: 7%;
+        float: left;
+        margin-top: 3%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .foother_row1_span{
+        font-size: 18px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 52px;
+        color: #FFFFFF;
+    }
+    .logo_foother{
+        margin-top: 7%;
+        width: 134px;
+        height: 30px;
+    }
+        /*****************************************FOOTHER UL LI*********************/
+    .foother_li1{
+        list-style-type: none;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        font-size: 16px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        line-height: 25px;
+    }
+    .foother_li{
+
+        list-style-type: none;
+        font-family: Roboto;
+        font-weight: 100;
+        font-size: 14px;
+        line-height: 27px;
+    }
+    .foother_li a{
+        color: #FFFFFF;
+    }
+    #div1_foother{
+        margin-top: 5%
+    }   
+    #div2_foother{
+        margin-left: 20%;
+        margin-top: -10%;
+    }
+    #div3_foother{
+        margin-left: 38%;
+        margin-top: -30%;
+    }
+    #div4_foother{
+        margin-left: 58%;
+        margin-top: -30%;
+    }
+    #div5_foother{
+        margin-left: 75%;
+        margin-top: -30%;
+    }  
+    
+}
+
+@media (max-width: 475px){
+    .bg_purple_section{
+        background: url(woocommer_img/Group5.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 1100px;
+        margin-top: 210%;
+    }
+}
+@media (max-width: 380px){
+    .bg_purple_section{
+        background: url(woocommer_img/Group5.png);
+        background-repeat: no-repeat;
+        background-size: 100% auto;
+        height: 1100px;
+        width: 1100px;
+        margin-top: 250%;
+    }
+}
+
